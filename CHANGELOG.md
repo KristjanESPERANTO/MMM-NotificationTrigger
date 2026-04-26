@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.1.3](https://github.com/MMRIZE/MMM-NotificationTrigger/compare/v1.1.2...v1.1.3) (2026-04-26)
+
+
+### Chores
+
+* add "type" field to package.json ([f422750](https://github.com/MMRIZE/MMM-NotificationTrigger/commit/f422750ae74e3af1f6439802b1e2b889c8a6eb3f))
+* remove unnecessary rule override for demo.config.js ([53e26ce](https://github.com/MMRIZE/MMM-NotificationTrigger/commit/53e26cee8521894228557dfa5da4f621dbdb0b93))
+* update devDependencies ([bbf170f](https://github.com/MMRIZE/MMM-NotificationTrigger/commit/bbf170f65e578505c922d65b31a0d96a2abc1895))
+
 ## [1.1.2](https://github.com/MMRIZE/MMM-NotificationTrigger/compare/v1.1.1...v1.1.2) (2026-03-15)
 
 
